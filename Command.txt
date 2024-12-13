@@ -1,0 +1,17 @@
+git init
+git add MyFile.txt
+git commit -m ""
+echo "Command.txt" > .gitignore
+git add .gitignore
+git commit -m ""
+
+mkdir Info
+cd Info
+touch InfoFile1 InfoFile2
+cd ..
+add add Info/
+git commit -m ""
+
+git config user.name "Aabiskar_INFO"
+git config user.name
+
