@@ -15,3 +15,7 @@ git commit -m ""
 git config user.name "Aabiskar_INFO"
 git config user.name
 
+Updated Myfile.txt bt appending the course name and code at the top. This was done manually using text editor
+
+During this task, I learned how to update a file with additional content and how to review the project status using git status. I also learned the importance of keeping track of changes in version control, such as adding, editing, and committing files properly.
+
